@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\UFAR.AN.API",
+    "\\UFAR.AN.API\\Controllers",
+    "\\UFAR.AN.Data",
+    "\\UFAR.AN.Data\\DAO",
+    "\\UFAR.AN.UI",
+    "\\UFAR.AN.UI\\Components",
+    "\\UFAR.AN.UI\\Components\\Pages"
+  ],
+  "SelectedNode": "\\UFAR.AN.UI\\Components\\Pages\\Cars.razor",
+  "PreviewInSolutionExplorer": false
+}
